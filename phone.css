@@ -1,0 +1,87 @@
+
+
+/* ----------------------navigation -----------*/
+#navbar{
+    flex-direction: column;
+
+    
+}
+
+#navbar img{
+
+    height: 50px;
+}
+
+#navbar ul li a {
+    font-size: 14px;
+    padding: 0px 8px;
+    margin: -12px auto;
+}
+
+#navbar .btn{
+
+    padding: 5px 16px;
+    font-size: 15px;
+
+}
+
+
+
+
+/* ------------home section-------------------- */
+#home{
+    height: 320px;
+    flex-direction: column;
+    padding: 10px 10px;
+}
+ #home::before{
+
+    height: 450px;
+ }
+ #home p{
+    font-size: 13px;
+ }
+
+
+
+/* -----------Servises Section---------------- */
+
+#services{
+    flex-direction: column;
+    padding: 10px 20px;
+}
+
+
+/*------------ client section----------------- */
+
+
+
+
+#client img{
+
+    height: 45px;
+}
+
+#client{
+    flex-wrap: wrap;
+}
+
+/* --------------contact US section------------ */
+
+
+
+/*-------------- footer--------------------------- */
+
+
+
+/* utolity classes */
+
+.h-primary,.h-secondary{
+
+    font-size: 17px;
+   
+}
+
+.h-secondary{
+    margin: 33px auto;
+}
